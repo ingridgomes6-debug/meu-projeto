@@ -1,0 +1,5 @@
+Habilidades:
+
+Vender;
+Persuadir;
+Improvisar.
